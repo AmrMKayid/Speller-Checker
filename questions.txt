@@ -1,0 +1,7 @@
+0.  an invented long word said to mean a lung disease caused by inhaling very fine ash and sand dust.
+1.  returns resource usage measures
+2.  18
+3.  to be able to access their attributes
+4.  TODO
+5.  we won't be able to use it to iterate with the for loop
+6.  To prevent manipulating with the given char
